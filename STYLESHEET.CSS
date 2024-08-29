@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(67, 218, 238, 0.856);
+}
+.div1{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
